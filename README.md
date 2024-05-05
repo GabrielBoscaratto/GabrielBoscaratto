@@ -11,7 +11,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"/>          
 </div>
 
           
@@ -67,6 +69,12 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **Ano de Graduação:** 2024 (Dezembro)
 - **Cursos Relevantes:** Desenvolvimento Web, Programação Orientada a Objetos, Banco de Dados, etc.
 
+### Conhecimentos Adicionais
+
+- **Sistema Operacional:** Utilizo Mac como sistema operacional padrão.
+- **Comandos de Terminal Linux:** Familiarizado com comandos de terminal Linux.
+- **Git:** Proficiente em comandos Git para controle de versão.
+
 ### Contato
 
 - **Email:** gabrielboscaratto98@gmail.com
@@ -74,4 +82,3 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **GitHub:** [GabrielBoscaratto](https://github.com/GabrielBoscaratto)
 
 Fique à vontade para entrar em contato comigo para colaborações ou oportunidades profissionais!
-
