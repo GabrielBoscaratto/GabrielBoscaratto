@@ -65,7 +65,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ### Educação
 
-- **Universidade nove:** Bacharelado em Ciência da Computação
+- **Universidade Nove de Julho:** Bacharelado em Ciência da Computação
 - **Ano de Graduação:** 2024 (Dezembro)
 - **Cursos Relevantes:** Desenvolvimento Web, Programação Orientada a Objetos, Banco de Dados, etc.
 
