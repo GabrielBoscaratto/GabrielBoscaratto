@@ -1,7 +1,6 @@
 ## Minhas Habilidades
 
-### Linguagens de Programação
-  
+
 <div style="display: flex; justify-content: space-around; align-items: center; overflow-x: auto; max-width: 100%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original-wordmark.svg" width="50" />
@@ -17,7 +16,8 @@
 </div>
 
           
-
+### Linguagens de Programação
+  
 * JavaScript: Experiência em desenvolvimento web front-end e back-end.
 * PHP: Proficiência em frameworks como Cakephp e laravel. 
 * CSS3: Domínio de layout responsivo e boas práticas de acessibilidade.
