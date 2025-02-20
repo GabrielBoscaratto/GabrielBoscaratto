@@ -11,9 +11,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" /> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"/>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" />
 </div>
+
+
 
           
 ### Linguagens de Programação
@@ -42,10 +46,12 @@ Olá! Meu nome é Gabriel Boscaratto, tenho 26 anos e sou apaixonado por desenvo
 - **Front-end:**
   - HTML
   - CSS
+  - Angular
   - JavaScript
 - **Back-end:**
   - PHP (CakePHP)
   - MySQL
+  - NestJS
   - AJAX
   - JSON
 - **Outras linguagens:**
